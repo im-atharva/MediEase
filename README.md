@@ -1,5 +1,6 @@
 # MediEase: Healthcare Consultation Platform
 
+
 MediEase is a robust healthcare consultation platform designed to streamline the process of booking appointments with doctors, accessing medical documents, and generating prescriptions. Key features include:
 
 1. **Video Consultation:** Seamlessly book appointments with doctors and provide reviews through an intuitive video consultation interface.
@@ -10,3 +11,5 @@ MediEase is a robust healthcare consultation platform designed to streamline the
 4. **Prescription Generation:** Equips doctors with a prescription generator tool to efficiently create and share prescriptins with patients.
 
 This repository contains the source code for MediEase, built using Node.js for the backend and incorporating various frontend technologies for a seamless user experience.
+
+ <a href="https://drive.google.com/drive/u/1/folders/1_MmmGY_l7jJktSG3VWPnL3c9qgJIzIWO">Watch Insights »</a>
